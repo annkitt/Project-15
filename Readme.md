@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 15 [Live link]()
+## Project 15 [Live link](https://productlandingpagee.netlify.app/)
 
 - Skills Gained in this project 
     - Learned to create background box for visual design.
@@ -20,7 +20,3 @@
 
 ### ScreenShot
 ![Desktop](./Screenshot/15o.png)
-![Desktop](./Screenshot/15t.png)
-![Desktop](./Screenshot/15th.png)
-![Desktop](./Screenshot/15f.png)
-![Desktop](./Screenshot/15fi.png)
